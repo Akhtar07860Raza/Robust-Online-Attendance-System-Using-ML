@@ -1,0 +1,5 @@
+Dashboard UniPortal\node_modules
+Dashboard UniPortal\.env
+__pycache__/
+*.pyc
+Face Recognition System/app/_internal/
